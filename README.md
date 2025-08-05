@@ -1,0 +1,2 @@
+# FujiPeak
+AuroraFusion FujiPeak is a HyperScalable RealTimeDataVisualization platform for UltraPerformant LowLatencyDataStreaming InsightForge. implementing modern LowLatencyDataStreaming patterns
